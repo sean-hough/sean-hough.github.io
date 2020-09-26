@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hackcmu2020/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hackcmu2020/static/js/main.277c5d57.chunk.js",
+    "main.js.map": "/hackcmu2020/static/js/main.277c5d57.chunk.js.map",
+    "runtime-main.js": "/hackcmu2020/static/js/runtime-main.5bc8b899.js",
+    "runtime-main.js.map": "/hackcmu2020/static/js/runtime-main.5bc8b899.js.map",
+    "static/js/2.068a3a49.chunk.js": "/hackcmu2020/static/js/2.068a3a49.chunk.js",
+    "static/js/2.068a3a49.chunk.js.map": "/hackcmu2020/static/js/2.068a3a49.chunk.js.map",
+    "index.html": "/hackcmu2020/index.html",
+    "precache-manifest.0ad788fc86cd1a91c73d132e3639f370.js": "/hackcmu2020/precache-manifest.0ad788fc86cd1a91c73d132e3639f370.js",
+    "service-worker.js": "/hackcmu2020/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hackcmu2020/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.068a3a49.chunk.js.LICENSE.txt": "/hackcmu2020/static/js/2.068a3a49.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hackcmu2020/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bc8b899.js",
+    "static/js/2.068a3a49.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.277c5d57.chunk.js"
+  ]
+}
