@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://sean-hough.github.io/",
+  "homepage": "https://sean-hough.github.io/",
   "name": "hackcmu2020",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,9 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "firebase": "^7.21.1",
     "react": "^16.13.1",
+    "react-create": "^1.0.2",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
@@ -16,8 +18,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
